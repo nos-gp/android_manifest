@@ -10,15 +10,12 @@
            fetch="https://github.com/nos-gp"
            revision="Pie" />
 
-
- 
-
  <!-- Samsung MSM8916 Common Repos -->
   <project path="device/samsung/msm8916-common" name="android_device_samsung_msm8916-common" groups="device" remote="PE"/>
   <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" groups="device" remote="github" revision="lineage-16.0"/>
 
  <!-- Samsung Hardware Repo -->
-  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" remote="PE"/>
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" remote="PE" />
   <project path="hardware/qcom/audio-caf/msm8916" name="Galaxy-MSM8916/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="github" revision="lineage-16.0-caf-8916" />
 
  <!-- Common Samsung MSM8916 Kernel -->
