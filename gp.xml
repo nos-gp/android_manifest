@@ -41,5 +41,6 @@
   <project path="device/samsung/gprimelte-common" name="android_device_samsung_gprimelte-common" groups="device" remote="PE"/>
   <project path="device/samsung/fortuna3g" name="android_device_samsung_fortuna3g" groups="device" remote="PE"/>
   <project path="device/samsung/fortunave3g" name="android_device_samsung_fortunave3g" groups="device" remote="PE"/>
+  <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy" groups="device" remote="PE"/>
   
  </manifest>
